@@ -416,6 +416,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Laberit.",
+          "image": {
+            "alt": "laberit.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a64e5374-d374-454a-9784-c2d46a090543_laberit.png"
+          },
+          "URL": "https://www.laberit.com/servicios/sistema-gestion-almacenes/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Software.",
+            "startDate": "2017-03-01",
+            "finishDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de SGA en java y en .net bajo c#, creación y gestión de servicio de colas con RabbitMQ, así como gestión de MSQL y OracleDb2, mediante T-SQL. Programación de terminales y tablets, para la gestión del picking, así como picking por voz y por iluminación."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "ADO.net",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
