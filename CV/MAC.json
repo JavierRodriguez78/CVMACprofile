@@ -56,6 +56,110 @@
     "jobs": [
       {
         "organization": {
+          "name": "Geekshubs.",
+          "image": {
+            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/78b24585-c390-4f78-a596-267946aa4348_geekshubs-logo-rojo-.svg"
+          },
+          "URL": "https://geekshubs.com/"
+        },
+        "roles": [
+          {
+            "name": "FullStack Developer",
+            "startDate": "2016-06-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "Decisión arquitectura y funcionalidades de la plataforma Geekshubs Academy, así como desarrollo de aplicaciones para clientes terceros, a partir de los requisitos previamente obtenidos.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Sequelize",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Widitrade.",
           "image": {
             "alt": "widitrade.png",
