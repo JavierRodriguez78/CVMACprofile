@@ -220,6 +220,94 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Geekshubs.",
+          "image": {
+            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad16c47c-e0f0-4b1c-97d4-20405a8792c4_geekshubs-logo-rojo-.svg"
+          },
+          "URL": "https://geekshubs.com/"
+        },
+        "roles": [
+          {
+            "name": "Cto",
+            "startDate": "2018-08-01",
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Gestión de los proyectos internos y externos así como seguimiento, reunión con los stackeholders,  gestión de los equipos de 15 programadores, decisión sobre arquitectura a adoptar, gestión de infraestructura en aws y digitalOcean, y desarrollo de nuevas funcionalidades, también procesos de asesoramiento a otras empresas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
