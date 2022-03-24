@@ -37,6 +37,74 @@
     "jobs": [
       {
         "organization": {
+          "name": "Widitrade.",
+          "image": {
+            "alt": "widitrade.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/af4964f5-7c7d-4345-b2eb-68bccf9a3fdc_widitrade.png"
+          },
+          "URL": "https://widitrade.com/"
+        },
+        "roles": [
+          {
+            "name": "Cto",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Cto, durante mi tiempo en la empresa estuve encargado de la gestión de proyecto interno, adquisición de requisitos, así como distribución de tareas, también la gestión del equipo de trabajo, vacaciones, 1&1 y con la dirección de la empresa, tabmién lleve a cabo el  proceso de contratación de 2 nuevos perfiles de IT donde desarrolle una prueba técnica y un pair programing para la evaluación de los perfiles. También lleve a cambio la gestión de cambio de infraestructura y portabilidad a nuevos servicios, así como la negociación con los diferentes proveedores."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Chef",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "PowerElectronics.",
           "image": {
             "alt": "power.png",
@@ -50,7 +118,7 @@
             "startDate": "2021-12-01",
             "challenges": [
               {
-                "description": ""
+                "description": "Definición de arquitectura de los nuevos proyectos, implementación de CQRS en nuevos proyectos y refactorización de proyectos ya en marcha de largo recorrido, formación interna al resto de departamento de IT, Implementación de la infraestructura y automatización de procesos con GitLab y Ansible.\nAsí como nuevos desarrollos en el stack que se comenta más abajo.\n"
               }
             ],
             "competences": [
@@ -119,10 +187,6 @@
                 "type": "technology"
               },
               {
-                "name": "CakePHP",
-                "type": "technology"
-              },
-              {
                 "name": "Slim",
                 "type": "technology"
               },
@@ -136,74 +200,6 @@
               },
               {
                 "name": "Gitflow",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Widitrade.",
-          "image": {
-            "alt": "widitrade.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/af4964f5-7c7d-4345-b2eb-68bccf9a3fdc_widitrade.png"
-          },
-          "URL": "https://widitrade.com/"
-        },
-        "roles": [
-          {
-            "name": "Cto",
-            "startDate": "2021-09-01",
-            "finishDate": "2021-12-01",
-            "challenges": [
-              {
-                "description": "Cto, durante mi tiempo en la empresa estuve encargado de la gestión de proyecto interno, adquisición de requisitos, así como distribución de tareas, también la gestión del equipo de trabajo, vacaciones, 1&1 y con la dirección de la empresa, tabmién lleve a cabo el  proceso de contratación de 2 nuevos perfiles de IT donde desarrolle una prueba técnica y un pair programing para la evaluación de los perfiles. También lleve a cambio la gestión de cambio de infraestructura y portabilidad a nuevos servicios, así como la negociación con los diferentes proveedores."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "Chef",
-                "type": "technology"
-              },
-              {
-                "name": "PHPunit",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              },
-              {
-                "name": "PHPStorm",
                 "type": "technology"
               }
             ]
