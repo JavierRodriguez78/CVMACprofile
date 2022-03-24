@@ -31,6 +31,21 @@
         "type": "other",
         "URL": "https://javier-rodriguez.com"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "Mesa Redonda DevOps.",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=vS2HegazBRY",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": "Vídeo donde participe en una mesa redonda sobre DevOps."
+      }
     ]
   },
   "experience": {
