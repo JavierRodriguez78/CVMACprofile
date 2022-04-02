@@ -87,7 +87,19 @@
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
                 "type": "technology"
               },
               {
@@ -99,27 +111,7 @@
                 "type": "technology"
               },
               {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "MariaDB",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
@@ -127,15 +119,7 @@
                 "type": "technology"
               },
               {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
+                "name": "Sequelize",
                 "type": "technology"
               },
               {
@@ -143,15 +127,31 @@
                 "type": "technology"
               },
               {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "Sequelize",
-                "type": "technology"
-              },
-              {
                 "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
                 "type": "technology"
               }
             ]
@@ -183,23 +183,19 @@
                 "type": "technology"
               },
               {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
                 "name": "Laravel",
                 "type": "technology"
               },
               {
                 "name": "Symfony",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
                 "type": "technology"
               },
               {
@@ -211,15 +207,19 @@
                 "type": "technology"
               },
               {
-                "name": "PHPunit",
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               },
               {
                 "name": "Vuex",
-                "type": "technology"
-              },
-              {
-                "name": "PHPStorm",
                 "type": "technology"
               }
             ]
@@ -246,11 +246,7 @@
             ],
             "competences": [
               {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
@@ -262,7 +258,7 @@
                 "type": "technology"
               },
               {
-                "name": "AWS",
+                "name": "Nest",
                 "type": "technology"
               },
               {
@@ -270,15 +266,39 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              },
+              {
                 "name": "MongoDB",
                 "type": "technology"
               },
               {
-                "name": "Linux",
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
                 "type": "technology"
               },
               {
                 "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
                 "type": "technology"
               },
               {
@@ -290,39 +310,19 @@
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Slim",
-                "type": "technology"
-              },
-              {
-                "name": "TypeORM",
-                "type": "technology"
-              },
-              {
                 "name": "Transact-SQL (T-SQL)",
                 "type": "technology"
               },
               {
-                "name": "Gitflow",
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
                 "type": "technology"
               }
             ]
@@ -350,6 +350,26 @@
             ],
             "competences": [
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
                 "type": "technology"
               },
@@ -358,19 +378,7 @@
                 "type": "technology"
               },
               {
-                "name": "Symfony",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
+                "name": "PHPStorm",
                 "type": "technology"
               },
               {
@@ -378,23 +386,19 @@
                 "type": "technology"
               },
               {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
                 "name": "React Native",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Vue",
                 "type": "technology"
               },
               {
-                "name": "MariaDB",
+                "name": "AngularJS",
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -402,15 +406,11 @@
                 "type": "technology"
               },
               {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
                 "name": "Spring Cloud",
                 "type": "technology"
               },
               {
-                "name": "PHPStorm",
+                "name": "Symfony",
                 "type": "technology"
               }
             ]
@@ -442,7 +442,7 @@
                 "type": "technology"
               },
               {
-                "name": "C#",
+                "name": "ADO.net",
                 "type": "technology"
               },
               {
@@ -450,7 +450,7 @@
                 "type": "technology"
               },
               {
-                "name": "RabbitMQ",
+                "name": "C#",
                 "type": "technology"
               },
               {
@@ -458,7 +458,7 @@
                 "type": "technology"
               },
               {
-                "name": "ADO.net",
+                "name": "DB2",
                 "type": "technology"
               },
               {
@@ -466,12 +466,165 @@
                 "type": "technology"
               },
               {
-                "name": "DB2",
+                "name": "RabbitMQ",
                 "type": "technology"
               }
             ]
           }
         ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
       }
     ]
   },
