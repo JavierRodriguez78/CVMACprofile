@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,25 +15,25 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/39d82c66-fd49-41c6-a328-9eaa4aa002a6_me.jpg"
       },
       "location": {
-        "notes": ""
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/JavierRodriguez78?tab=repositories"
+      },
+      {
+        "type": "other",
+        "URL": "https://javier-rodriguez.com"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/jaroso78_11"
       },
       {
-        "type": "other",
-        "URL": "https://javier-rodriguez.com"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
       }
     ],
     "recommendations": [
@@ -56,86 +56,56 @@
     "jobs": [
       {
         "organization": {
-          "name": "Geekshubs.",
-          "image": {
-            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/78b24585-c390-4f78-a596-267946aa4348_geekshubs-logo-rojo-.svg"
-          },
-          "URL": "https://geekshubs.com/"
+          "name": "OpenBank"
         },
         "roles": [
           {
-            "name": "FullStack Developer",
-            "startDate": "2016-06-01",
-            "finishDate": "2017-08-01",
+            "name": "Software Manager",
+            "startDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Decisión arquitectura y funcionalidades de la plataforma Geekshubs Academy, así como desarrollo de aplicaciones para clientes terceros, a partir de los requisitos previamente obtenidos.\n"
+                "description": ""
               }
             ],
             "competences": [
               {
-                "name": "PHP",
+                "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "Laravel",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Symfony",
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PowerElectronics.",
+          "URL": "https://power-electronics.com/mpower/"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Definición de arquitectura de los nuevos proyectos, implementación de CQRS en nuevos proyectos y refactorización de proyectos ya en marcha de largo recorrido, formación interna al resto de departamento de IT, Implementación de la infraestructura y automatización de procesos con GitLab y Ansible.\nAsí como nuevos desarrollos en el stack que se comenta más abajo.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "MariaDB",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Sequelize",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
@@ -143,15 +113,71 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              },
+              {
                 "name": "Terraform",
                 "type": "technology"
               },
               {
-                "name": "AWS",
+                "name": "Transact-SQL (T-SQL)",
                 "type": "technology"
               },
               {
-                "name": "Google Cloud",
+                "name": "TypeORM",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -179,6 +205,26 @@
             ],
             "competences": [
               {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Chef",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
                 "type": "technology"
               },
@@ -191,27 +237,7 @@
                 "type": "technology"
               },
               {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
                 "name": "Symfony",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "Chef",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
                 "type": "technology"
               },
               {
@@ -220,109 +246,6 @@
               },
               {
                 "name": "Vuex",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "PowerElectronics.",
-          "image": {
-            "alt": "power.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/292f88fe-f536-4468-bd72-9754fcb24377_power.png"
-          },
-          "URL": "https://power-electronics.com/mpower/"
-        },
-        "roles": [
-          {
-            "name": "Senior Developer",
-            "startDate": "2021-12-01",
-            "challenges": [
-              {
-                "description": "Definición de arquitectura de los nuevos proyectos, implementación de CQRS en nuevos proyectos y refactorización de proyectos ya en marcha de largo recorrido, formación interna al resto de departamento de IT, Implementación de la infraestructura y automatización de procesos con GitLab y Ansible.\nAsí como nuevos desarrollos en el stack que se comenta más abajo.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Slim",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              },
-              {
-                "name": "TypeORM",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "GitLab",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Gitflow",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Ansible",
-                "type": "technology"
-              },
-              {
-                "name": "Transact-SQL (T-SQL)",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
                 "type": "technology"
               }
             ]
@@ -350,19 +273,15 @@
             ],
             "competences": [
               {
-                "name": "NodeJS",
+                "name": "AngularJS",
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
+                "name": "Laravel",
                 "type": "technology"
               },
               {
@@ -370,11 +289,19 @@
                 "type": "technology"
               },
               {
-                "name": "PHP",
+                "name": "MongoDB",
                 "type": "technology"
               },
               {
-                "name": "Laravel",
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
@@ -390,18 +317,6 @@
                 "type": "technology"
               },
               {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "Spring Boot",
                 "type": "technology"
               },
@@ -411,6 +326,14 @@
               },
               {
                 "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               }
             ]
@@ -438,7 +361,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": ".NET",
                 "type": "technology"
               },
               {
@@ -446,15 +369,7 @@
                 "type": "technology"
               },
               {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
                 "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
                 "type": "technology"
               },
               {
@@ -462,11 +377,123 @@
                 "type": "technology"
               },
               {
-                "name": "Transact-SQL (T-SQL)",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Geekshubs.",
+          "image": {
+            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/78b24585-c390-4f78-a596-267946aa4348_geekshubs-logo-rojo-.svg"
+          },
+          "URL": "https://geekshubs.com/"
+        },
+        "roles": [
+          {
+            "name": "FullStack Developer",
+            "startDate": "2016-06-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "Decisión arquitectura y funcionalidades de la plataforma Geekshubs Academy, así como desarrollo de aplicaciones para clientes terceros, a partir de los requisitos previamente obtenidos.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MariaDB",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sequelize",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               }
             ]
@@ -478,67 +505,14 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
+          "name": "Lamp",
           "type": "technology"
         }
       },
@@ -550,7 +524,25 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -562,7 +554,37 @@
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -574,31 +596,25 @@
       },
       {
         "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ansible",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Spring Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Boot",
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -616,13 +632,25 @@
       },
       {
         "skill": {
-          "name": "Lamp",
+          "name": "AngularJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Cloud",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -636,6 +664,16 @@
           "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
