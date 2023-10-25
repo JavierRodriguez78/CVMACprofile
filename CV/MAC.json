@@ -1,54 +1,50 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Xavi",
       "surnames": "Rodríguez Soler",
-      "title": "",
+      "title": "Title",
       "description": "Hola soy Xavi, tengo 43 años y soy papa de dos reinas,  empecé en esto de la informática con 13 años en un amstrad cpc 464 plus donde descubrí basic gracias a libro que venía con el equipo y de repente me convertí en friki de intentar descubrir lo que podía llegar hacer con éste equipo, tal es así que con 15 años me apunté a una academia de informática que bien le costó a mis padres pagarla donde empecé con QBasic y GWBasic en ms-dos 6.22 y windows 3.11, lo se soy un viejoven XDDD, posteriormente me compré mi primer equipo un 486 dx4 100 con el dinero que había estado ahorrando, y aún sin tener \"internete\" empecé también ha descubrir otros lenguajes como pascal con el compilador de Borland TurboPascal incluso Visual Basic 6. Al principio  estuve trabajando  como freelance como FrontEnd y posteriormente  en Rumbo Sistemas dentro del grupo Alfatec Sistemas ahora Laberit en el stack de Java, .net c#, colas con rabbitmq, webservices soap, etc desarrollando un sistema de gestión de almacenes,en mis últimos años en Geekshubs y Geekshubs academy  y durante los últimos 3 años como CTO llegando a liderar un equipo de 14 técnicos , donde desarrollamos producto propio así como para terceros en diferentes stacks tanto LAMP con Laravel y front con Vue, como MEAN con nest.js. O stack Java con Spring Boot. También me gusta gestionar la parte del metal he trabajado con aws, y google cloud así como digital Ocean, utilizando herramientas como Terraform, Ansible, y docker. En la parte de arquitectura he arquitecturado tanto monolitos con cqrs y microservicios aplicando diversas técnicas para evitar le problema de comunicación entre ellos, tanto en php utilizando lumen como con java con spring boot y spring cloud utilizando Eureka, spring configuration server, web flux y kafka os dejo un repo de ejemplo que realizé para un curso https://github.com/xavi78/futursMicroservice . Dada la labor de Geekshubs también he sido profesor tanto dentro de los bootcamps de fullstack como de especialización por ejemplo en el de devOps dando el módulo de orquestadores de contenedores(docker swarm, kuberentes y aws con ecs) y en el bootcamp de tech-management-and-leadership el módulo de stack tecnológico.  También formación en empresas, he formado a la empresa Futurs del grupo Ribera Salud, al departamento de informática de la diputación de Valencia, Unión Alcoyana, etc también estuve como prooesor para bootcamps orientado a empresas como Creditas, Badi, Alfatec Sistemas, etc.  En la parte de monitorización también he trabajado con el stack de elk y los beats, así como con el módulo de apm para gestionar el rendimiento de las aplicaciones y en la parte de CI/CD he trabajado tanto con Jenkins, como utilizando la potencia de las herramientas de los repositorios de git como bitbucket con sus pipelines, y en github con sus github actions. En definitiva me he pegado bastante  y seguro que me he dejado alguna tecnología pero vamos que estoy en constante proceso de aprendizaje y la verdad es que me gusta seguir mejorando y sobre todo ver como mi equipo también mejora ayudándoles a aplicar DDD,  identificar cual es el dominio y los subdominios, la relación entre los diferentes bounded context, e incluso estar en las reuniones con los stakeholders para la adquisición de requisitos, bueno ya me enrollado mucho XDDD",
       "avatar": {
-        "alt": "me.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/39d82c66-fd49-41c6-a328-9eaa4aa002a6_me.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/39d82c66-fd49-41c6-a328-9eaa4aa002a6_me.jpg",
+        "alt": "me.jpg"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJK31l46JFYA0RxvUwJYk-FnQ)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Burjasot"
       }
     },
+    "recommendations": [
+      {
+        "title": "Mesa Redonda DevOps.",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=vS2HegazBRY",
+        "summary": "Vídeo donde participe en una mesa redonda sobre DevOps."
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/JavierRodriguez78?tab=repositories"
-      },
-      {
-        "type": "other",
-        "URL": "https://javier-rodriguez.com"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/jaroso78_11"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
-      }
-    ],
-    "recommendations": [
-      {
-        "title": "Mesa Redonda DevOps.",
         "type": "other",
-        "URL": "https://www.youtube.com/watch?v=vS2HegazBRY",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
-        "summary": "Vídeo donde participe en una mesa redonda sobre DevOps."
+        "URL": "https://javier-rodriguez.com"
       }
     ]
   },
@@ -64,7 +60,7 @@
             "startDate": "2022-10-01",
             "challenges": [
               {
-                "description": ""
+                "description": "Software manager del proyecto Zinia, definición de la aplicación técnicamente, definición de endpoints, historías de Usuario, etc, coordinación del proyecto así como el equipo para el desarrollo del proyecto de merchant enrollment, a la vez realizo las tareas suficientes para coordinarme con el resto de squads, subidas a los diferentes entornos, gestión de la BD .\nTambién realizo la gestión de  las diferentes ceremonias de scrum, dailys, refinamientos, restros, etc. , me encargo de realizar el control de las diferentes RN realizando las pruebas de qa previamente en el entorno de QA y posteriormente previa subida a producción en el entorno de STG, También realizo las tareas suficientes para la gestión de errores y la monitorización del proyecto en AWS.\nPara ello las diferentes herramientas que utilizo diariamente para la gestión del código:\nJAVA, \nSpring Boot,\nReact,\nGit,\nBitbucket.\nBamboo.\nPoEditor.\nSonarQube.\nGestión de Proyecto:\nJira.\nConfluence.\nGestión de entornos:\nAWS.\nRunDeck.\nHarness.\nPara la gestión de otras tareas o coordinación con resto de equipos.\nService-now Ticketing.\n\n"
               }
             ],
             "competences": [
@@ -73,7 +69,27 @@
                 "type": "technology"
               },
               {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
@@ -188,8 +204,8 @@
         "organization": {
           "name": "Widitrade.",
           "image": {
-            "alt": "widitrade.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/af4964f5-7c7d-4345-b2eb-68bccf9a3fdc_widitrade.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/af4964f5-7c7d-4345-b2eb-68bccf9a3fdc_widitrade.png",
+            "alt": "widitrade.png"
           },
           "URL": "https://widitrade.com/"
         },
@@ -256,8 +272,8 @@
         "organization": {
           "name": "Geekshubs.",
           "image": {
-            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad16c47c-e0f0-4b1c-97d4-20405a8792c4_geekshubs-logo-rojo-.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad16c47c-e0f0-4b1c-97d4-20405a8792c4_geekshubs-logo-rojo-.svg",
+            "alt": "GeeksHubs-logo-rojo-sin-claim.svg"
           },
           "URL": "https://geekshubs.com/"
         },
@@ -344,8 +360,8 @@
         "organization": {
           "name": "Laberit.",
           "image": {
-            "alt": "laberit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a64e5374-d374-454a-9784-c2d46a090543_laberit.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a64e5374-d374-454a-9784-c2d46a090543_laberit.png",
+            "alt": "laberit.png"
           },
           "URL": "https://www.laberit.com/servicios/sistema-gestion-almacenes/"
         },
@@ -400,8 +416,8 @@
         "organization": {
           "name": "Geekshubs.",
           "image": {
-            "alt": "GeeksHubs-logo-rojo-sin-claim.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/78b24585-c390-4f78-a596-267946aa4348_geekshubs-logo-rojo-.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/78b24585-c390-4f78-a596-267946aa4348_geekshubs-logo-rojo-.svg",
+            "alt": "GeeksHubs-logo-rojo-sin-claim.svg"
           },
           "URL": "https://geekshubs.com/"
         },
@@ -505,50 +521,14 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Lamp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -560,37 +540,7 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
+          "name": "AngularJS",
           "type": "technology"
         }
       },
@@ -602,43 +552,31 @@
       },
       {
         "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Cloud",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -650,8 +588,106 @@
       },
       {
         "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -660,8 +696,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/"
+          "URL": "https://www.linkedin.com/in/javier-rodr%C3%ADguez-soler-ba466031/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/JavierRodriguez78?tab=repositories",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/jaroso78_11",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "email@javier-rodriguez.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "637371932",
+          "countryCode": "+34"
         }
       ]
     },
@@ -675,5 +728,13 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Mi trabajo ideal es aquel en el que puedas desarrollarte y continuar creciendo profesionalmente  y a la vez ayudes a la empresa \nasí como  a los demás técnicos para que mejoren contigo. A la vez pode ver e interactuar con todas las áreas que envuelven el desarrollo de un producto propio y ayudar al ceo en la toma de decisión.\n\nWiditrade_June21_CTO",
+    "bookmarks": [
+      {
+        "name": "Mesa Redonda DevOps."
+      }
+    ]
   }
 }
